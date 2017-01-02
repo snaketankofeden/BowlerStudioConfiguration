@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/snaketankofeden/Cronenberg.git:Cronenberg.xml": [
-      "https://github.com/snaketankofeden/Cronenberg.git",
-      "Cronenberg.xml"
+    "https://gist.github.com/911ddbc4332e7b1a26f720d12a286a21.git:cronenberg.xml": [
+      "https://gist.github.com/911ddbc4332e7b1a26f720d12a286a21.git",
+      "cronenberg.xml"
     ],
     ":": [
       "",
