@@ -8,23 +8,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/911ddbc4332e7b1a26f720d12a286a21.git:cronenberg.xml": [
-      "https://gist.github.com/911ddbc4332e7b1a26f720d12a286a21.git",
-      "cronenberg.xml"
-    ],
-    ":": [
-      "",
-      ""
-    ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
-      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
-      "SimulatePhysics.groovy"
+    "https://github.com/snaketankofeden/Cronenberg.git:Cronenberg.xml": [
+      "https://github.com/snaketankofeden/Cronenberg.git",
+      "Cronenberg.xml"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.5",
-    "skinBranch": "master",
+    "skinBranch": "0.20.3",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.20.0"
+    "currentVersion": "0.20.3"
   }
 }
